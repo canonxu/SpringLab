@@ -115,13 +115,6 @@
             <version>2.5.3</version>
         </dependency>
 
-        <!-- Rome Atom+RSS -->
-        <dependency>
-            <groupId>com.rometools</groupId>
-            <artifactId>rome</artifactId>
-            <version>1.5.0</version>
-        </dependency>
-
         <!-- JSR 303 with Hibernate Validator -->
         <dependency>
             <groupId>javax.validation</groupId>
